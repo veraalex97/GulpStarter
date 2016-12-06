@@ -1,6 +1,8 @@
-# First front end related work using gulp and node to handle compiling of sass and using build tools.
+First front end related work using gulp and node to handle compiling of sass and using build tools.
+==========
 
-# Steps to start a project using gulp:
+Steps to start a project using gulp:
+============
   ...sudo npm install gulp -g ("This install glup globally, sudo is needed.")...
   * npm init
     - This sets up the package.json file. ("author", "version", "license", etc)
