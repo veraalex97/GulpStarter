@@ -1,5 +1,9 @@
 ##Learn GulpJS & automate your entire process.
 
+<h3>First things first. Let's install some of the things we need.</h3>
+
+
+
 Todo:
 Fix the markdown
 
