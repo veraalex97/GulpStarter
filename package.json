@@ -1,16 +1,17 @@
 {
-  "name": "project_overseer",
-  "version": "0.0.1",
-  "description": "Front-End for Discord Admin tool/dashboard.",
+  "name": "GulpStarterGuide",
+  "version": "1.0.0",
+  "description": "GulpJS automation tool.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alex Vera",
+  "author": "Alex A. Vera",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.17.5",
     "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
     "gulp-sass": "^2.3.2"
   }
 }
