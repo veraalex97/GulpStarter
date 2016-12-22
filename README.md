@@ -1,7 +1,31 @@
-##Learn GulpJS & automate your entire process.
+#Learn GulpJS & automate your entire process.
 
 <h4>First things first. Let's install some of the things we need.</h4>
+=======
 
+###Requirements:
+<p>NodeJS with npm</p>
+<b>Mac</b>
+```bash
+brew install node
+```
+<b>Linux (Ubuntu, Linux Mint, Debian)</b>
+```bash
+sudo apt install node
+```
+<b>Windows</b>
+<br>
+You can go ahead and download NodeJS from the link [here](https://nodejs.org/en/download/).
+
+<h5>You could start by cloning this repo but that would take the fun away from this tutorial. The point of this is to learn how to do it on your own.</h5>
+
+<p>First things first. Let's install some of the things we need.</p>
+
+For Yarn users
+
+```bash
+npm init
+```
 
 
 Todo:
