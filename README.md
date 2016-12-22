@@ -1,4 +1,4 @@
-#Learn GulpJS & automate your entire process.
+#Learn GulpJS, automate your front end process then push to production using Express/NodeJS :)
 
 <h4>First things first. Let's install some of the things we need.</h4>
 =======
