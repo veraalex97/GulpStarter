@@ -11,7 +11,7 @@ brew install node
 ```
 <b>Linux (Ubuntu, Linux Mint, Debian)</b>
 ```bash
-sudo apt install node
+sudo apt install nodejs
 ```
 <b>Windows</b>
 <br>
