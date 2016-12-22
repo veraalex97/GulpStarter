@@ -1,2 +1,4 @@
 body {
   background-color: #3f5475; }
+  body h2 {
+    color: purple; }
