@@ -1,4 +1,4 @@
-#Learn GulpJS, automate your front end process then push to production using Express/NodeJS :)
+#Learn GulpJS and automate your front end process then push to production using Express/NodeJS :)
 
 <h4>First things first. Let's install some of the things we need.</h4>
 =======
@@ -21,11 +21,12 @@ You can go ahead and download NodeJS from the link [here](https://nodejs.org/en/
 
 <p>First things first. Let's install some of the things we need.</p>
 
-For Yarn users
-
+<p>Let's first initialize our package.json file. Doesn't matter what you name it, or what version you give it. Remember, you can skip certain things but leaving the default selection on.</p>
 ```bash
 npm init
 ```
+
+<p>Then, we can now install our tools.</p>
 
 
 Todo:
