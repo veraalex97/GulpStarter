@@ -27,7 +27,14 @@ npm init
 ```
 
 <p>Then, we can now install our tools.</p>
-
+<p>Let's install Gulp first</p>
+```bash
+npm install gulp
+```
+<p>We're going to need something called browsersync which will handle the browser reloading when changes are made</p>
+```bash
+npm install browser-sync
+```
 
 Todo:
 Fix the markdown
