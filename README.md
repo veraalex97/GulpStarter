@@ -31,6 +31,12 @@ npm init
 ```bash
 npm install gulp
 ```
+
+<p>We're going to be using Sass so, let's install it</p>
+```bash
+npm install gulp-sass
+```
+
 <p>We're going to need something called browsersync which will handle the browser reloading when changes are made</p>
 ```bash
 npm install browser-sync
