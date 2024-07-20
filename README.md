@@ -1,9 +1,9 @@
-#Learn GulpJS and automate your front end process then push to production using Express/NodeJS :)
+# Learn GulpJS and automate your front end process then push to production using Express/NodeJS :)
 
 <h4>First things first. Let's install some of the things we need.</h4>
-=======
 
-###Requirements:
+===========
+### Requirements:
 <p>NodeJS with npm</p>
 <b>Mac</b>
 ```bash
